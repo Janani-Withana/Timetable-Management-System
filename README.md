@@ -1,2 +1,2 @@
 # Timetable-Management-System
-full crud application for manage timetable and course enrollments
+Full crud application for manage timetable and course enrollments
